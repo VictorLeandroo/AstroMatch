@@ -1,10 +1,11 @@
 # Astromatch
 
 O projeto é um sistema básico de aplicativo de relacionamentos (similar ao Tinder) composto por 2 partes, uma tela contendo os perfis com interação de ¹like e ²dislike e uma tela contendo todos os perfis que deram ³match.
-
-¹ Funcionalidade para adicionar um perfil específico a uma lista (Não vísivel para o usuário) de perfis que são do seu interesse. 
-² Funcionalidade para remover um perfil específico que não seja de seu interesse da lista dos perfis que são exibidos na tela de interação.
-³ Um match acontece quando duas pessoas se curtem, caso quem você curtiu já tenha curtido o seu perfil, você receberá um alerta sobre um match.
+<br/>
+<br/>
+¹ Funcionalidade para adicionar um perfil específico a uma lista (Não vísivel para o usuário) de perfis que são do seu interesse. <br/>
+² Funcionalidade para remover um perfil específico que não seja de seu interesse da lista dos perfis que são exibidos na tela de interação. <br/>
+³ Um match acontece quando duas pessoas se curtem, caso quem você curtiu já tenha curtido o seu perfil, você receberá um alerta sobre um match. <br/>
 
 ### Link de acesso
 - https://festive-cannon.surge.sh
